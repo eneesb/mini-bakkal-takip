@@ -6,7 +6,7 @@ A simple desktop application for managing a small grocery store's inventory and 
 
 ## 📸 Screenshots
 
-> *Add your screenshots here*
+> ![Screenshot](screenshot.png)
 
 ---
 
