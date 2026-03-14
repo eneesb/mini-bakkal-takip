@@ -41,7 +41,7 @@ A simple desktop application for managing a small grocery store's inventory and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mini-bakkal-takip.git
+git clone https://github.com/eneesb/mini-bakkal-takip.git
 cd mini-bakkal-takip
 ```
 
